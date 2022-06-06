@@ -68,6 +68,8 @@ Se realizó la instalacion de los componenetes
  
  **Ejecicio 3**
  
+ 
+ 
 1.- ![1 - GET](https://user-images.githubusercontent.com/106858116/171985835-a644a5c8-2f19-4747-9ce5-29d1704752cc.png)
 
 2.- ![2 - POST](https://user-images.githubusercontent.com/106858116/171985888-b523341d-166c-4b6b-bdd3-b48064ec5fd6.png)
